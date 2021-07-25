@@ -1,0 +1,2 @@
+# ESP8266 WiFi Soil Sensors
+This was another early experiment for my Wireless Soil Moisture Sensors Project. I ended up using an Atmega328p with 433Mhz radio in the final product but this was a testing using the ESP8266 connected with AWS IOT.
